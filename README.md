@@ -1,8 +1,5 @@
 # Web-scrapping
 
-
-Sure! I'll update the README according to the provided repository name and incorporate the details from the source code files. Here's the revised README:
-
 ---
 
 ## Web Scraping
